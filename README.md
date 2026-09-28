@@ -1,17 +1,17 @@
-# ImpactLab
+# 🚀 ImpactLab
 
 ### Digital Growth Studio
 
 ImpactLab is a digital growth studio focused on helping brands build a stronger presence in the digital world.
 
-## 🚀 Services
+## 🎯 Services
 
-- Social Media Management
-- Creative Content
-- Digital Growth
-- Digital Advertising
-- Brand Strategy
-- Brand Development
+- 📱 Social Media Management
+- 🎨 Creative Content
+- 📈 Digital Growth
+- 📢 Digital Advertising
+- 🧠 Brand Strategy
+- 🚀 Brand Development
 
 ## 🛠️ Built With
 
@@ -22,14 +22,12 @@ ImpactLab is a digital growth studio focused on helping brands build a stronger 
 
 ## 🌐 Live Demo
 
-The project is deployed with Streamlit Community Cloud.
+👉 [Open ImpactLab](https://impactlab.streamlit.app)
 
 ## 📌 Project
 
-ImpactLab is a portfolio project designed to present digital marketing, social media management and creative content services through a modern web interface.
+ImpactLab is a portfolio project demonstrating a modern digital growth studio concept with a web-based interface built using Streamlit.
 
-## 👨‍💻 Developer
+---
 
-*Ayxan Bagirov*
-
-GitHub: [Ayxan-Bagirov](https://github.com/Ayxan-Bagirov)
+*Created by Ayxan Bagirov*
