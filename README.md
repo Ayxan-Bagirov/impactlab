@@ -22,7 +22,7 @@ ImpactLab is a digital growth studio focused on helping brands build a stronger 
 
 ## 🌐 Live Demo
 
-👉 [Open ImpactLab](https://impactlab-2vvbbtwagdwkw6gvlwfjbr.streamlit.app/)
+👉 [Open ImpactLab](https://impactlab.streamlit.app/)
 
 ## 📌 Project
 
