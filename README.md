@@ -22,12 +22,19 @@ ImpactLab is a digital growth studio focused on helping brands build a stronger 
 
 ## 🌐 Live Demo
 
-👉 [Open ImpactLab](https://impactlab.streamlit.app)
+👉 [Open ImpactLab](https://impactlab-2vvbbtwagdwkw6gvlwfjbr.streamlit.app/)
 
 ## 📌 Project
 
 ImpactLab is a portfolio project demonstrating a modern digital growth studio concept with a web-based interface built using Streamlit.
 
----
+The platform presents digital marketing, social media management, creative content and brand development services through a modern interactive interface.
 
-*Created by Ayxan Bagirov*
+## 📂 Project Structure
+
+```text
+impactlab/
+│
+├── app.py
+├── requirements.txt
+└── README.md
